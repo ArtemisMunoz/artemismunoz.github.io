@@ -15,13 +15,13 @@
   </url>
   
   <url>
-    <loc>https://www.artemismunoz.com/designs/</loc>
+    <loc>https://www.artemismunoz.com/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.artemismunoz.com/techs/</loc>
+    <loc>https://www.artemismunoz.com/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
